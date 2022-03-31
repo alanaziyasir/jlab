@@ -19,7 +19,7 @@ mkdir outpus
 ```
 * Run the python script:
 ``` bash
-python3 lsgan.py
+python3 LSGAN.py
 ``` 
 
 
