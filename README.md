@@ -17,6 +17,9 @@ cd jlab
 ```bash
 mkdir outpus
 ```
+
+* Place dataset in data directory.
+
 * Run the python script:
 ``` bash
 python3 LSGAN.py
