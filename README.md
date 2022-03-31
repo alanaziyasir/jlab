@@ -14,9 +14,8 @@ git clone https://github.com/alanaziyasir/jlab
 cd jlab
 ```
 * Create a directory 'outputs':
-* ```bash
+```bash
 mkdir outpus
-cd jlab
 ```
 * Run the python script:
 ``` bash
