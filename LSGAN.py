@@ -24,7 +24,7 @@ os.environ["CUDA_VISIBLE_DEVICES"]="1"
 DIR = 'outputs/'
 
 # -- load data
-age = np.load('eICU_age.npy')
+age = np.load('data/eICU_age.npy')
 age = age.astype('float32')
 
 
