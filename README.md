@@ -13,21 +13,19 @@ The code is written in Python=3.6, with the following libraries:
 git clone https://github.com/alanaziyasir/jlab
 cd jlab
 ```
-* Create a directory 'outputs':
-```bash
-mkdir outpus
-```
-
-* Place dataset in data directory.
-
+## GAN
 * Run the python script:
 ``` bash
 python3 LSGAN.py
 ``` 
+- The script will run for 100k epochs and saving plots every 5k epochs in outpus directory.
 
+## VAE
+* Run the python script:
+``` bash
+python3 VAE.py
+``` 
+- The script will run for 300 epochs and save the latent in outputs directory.
+  
 
-  
-  
- ## Results:
- *The script will run for 100k epochs and saving plots every 5k epochs.
  
