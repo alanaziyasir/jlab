@@ -27,5 +27,9 @@ python3 VAE.py
 ``` 
 - The script will run for 300 epochs and save the latent in outputs directory.
   
-
+## Pendulum using DDGP
  
+* Run the python script:
+``` bash
+python3 DDGP.py
+``` 
